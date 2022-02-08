@@ -1,0 +1,17 @@
+/*
+Theme Name: Askka Child
+Theme URI: https://askka.qodeinteractive.com
+Description: A child theme of Askka
+Author: Elated Themes
+Author URI: https://qodeinteractive.com
+Version: 1.0
+Text Domain: askka
+Template: askka
+*/
+
+
+.price, .summary.entry-summary form, .product_meta, #askka_core_woo_dropdown_cart-2,.qodef-widget-holder.qodef--two{
+    display: none !important;
+}
+
+
